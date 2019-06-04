@@ -1,2 +1,2 @@
 # singleton
-使用单例模式
+ so  坚持！
